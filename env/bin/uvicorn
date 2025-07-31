@@ -1,4 +1,4 @@
-#!/home/nayem/Developer/fastApi/env/bin/python3
+#!/home/nayem/Developer/fastapi/fastApi/env/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
